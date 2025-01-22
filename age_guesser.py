@@ -1,5 +1,7 @@
 import random
 
+#added a comment
+
 def guess_age():
     print("Hello! I'm going to try to guess your age.")
     name = input("What's your name? ")
