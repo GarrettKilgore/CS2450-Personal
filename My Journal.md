@@ -1,5 +1,13 @@
 My Journal
 
+1/8/25
+
+It's my first week in class! I wasn't sure what to expect going into this course specifically because the name of this course is just called "Intro to Software Engineering" but I'm starting to see what it's about. It looks like it's going to use a structure that is similar to working in this field at a real company. I like that setup. I wish more classes would do this. I can't wait to learn more and work with a group in this course! I think this will be my most fun course.
+
+1/16/25
+
+We learned how to get and turn in assignments today. It looks like we are going to be using a Linux subsystem and I'm not looking forward to that. I've had to use this in one course before in the past and I was never told exactly what the point of it is or why it's even necessary. I might have to get some help because I was never told how this thing properly works. The first course I had that used it just treated it as if I already knew what it was and how to use it.
+
 
 1/22/25 
 
