@@ -3,11 +3,10 @@ name: Run Selenium Tests
 on:
   push:
     branches:
-    - main
+      - main
   pull_request:
     branches:
-    - main
-
+      - main
 jobs:
   selenium:
     runs-on: ubuntu-latest
