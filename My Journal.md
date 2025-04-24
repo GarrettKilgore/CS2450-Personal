@@ -36,3 +36,35 @@ We presented today. I think it went a lot better than I was expecting. I actuall
 2/25/25
 
 We have started coding out our site. Rylynn has been a huge help with getting this database sorted out. I've started putting together the overall design of the site and once I'm satisfied with a basic form of it, I'll start to work on the functionality of it and we can start to connect all of our files together. It's a start but there is still plenty of more to do. Plus we need to get the rest of the group on the same page as the 2 of us. Once we get all 5 of us on board and they all know what to do, I feel like this will be a bit easier. We shall see though. I'm just picturing several moments in the future where we will run into hurdles that we cannot jump over. I shouldn't worry about that now. I should just focus on doing my part for now.
+
+3/4/25
+
+We have started getting the structure of the site laid out. It doesn't have a specific theme just yet but the important part is just to have something that functions first. This database still feels ambisuious however Rylynn is committed to getting this thing up and running. It might take most of our time to get this working.
+
+3/10/25
+
+Spring Break
+
+3/17/25
+
+Our Login Page now works! This is such a relief to see even though this is something so small, it's a relief knowing that the database is starting to work! Users can create an account and sign in with that newly created account. From here we are now going to work on adding in the functionality of the feed page. There is going to be a lot there. We are planning on adding a friend's list, allowing for the user to make posts, the ability to delete posts, upload images and videos, and more if there is enough time. I'm starting to feel good about this
+
+3/24/25
+
+I've started trying to make the site look nice. The CSS is a big mess and I'm having a hard time understanding how the style works on this page. What I might have to do is create a new CSS file and override everythihg that I want to make a change to. Doing this would take way longer than normal so I'm still trying to find solutions. We are still trying to get the database on the feed page to work. We need some more time.
+
+3/31/25
+
+Most of the database is working now. Users can make posts however pics and videos do not work. We are currently working on getting the friend's list to work next. This database is slowly but surely coming together. I've also learned how to override and make some changes to the CSS. It's been a challenge finding all of the classes that everything is assigned to. I've had to inspect just about everything to get it to change. Because of this, it has been a slow process to get done, but the good news is that I don't have to do this all in a few days. I have time to slowly design an build this site out.
+
+4/7/25
+
+Users can now friend others in our database. Most of this database is using flask and it's a thing of beauty. Since this is a parody of MySpace, I've taken the colors of MySpace and have added them to our site. Our theme is going to be the same colors that MySpace uses. I'm working on mixing them together to make them look nice. That has been a little bit of a challenge.
+
+4/14/25
+
+We have finally got photos and videos working on our site. Users can now upload them and add them to their posts. However for some strange reason, it doesn't work on my laptop. I'm not sure why, but it is working on everyone else's despite me being the one who added it in. I'm not sure why that's happening. I'll have to dig through every change I made to see if I accidentally deleted something. In the meantime I'm also adding the final touches to the CSS. Unfortunately, we had to remove some features we were planning on adding because of how detailed we made this database. I'm proud that we actually got this huge database working, but I still wish we could have done more functionality wise.
+
+4/24/25
+
+This is presenting day! I was able to fix several issues with our site. The images and videos that users were uploading did not fit on the site so I managed to get that fixed at the last minute. We got everything done that we could do. The database fully works, I got the site to look nice and not some Ai template webpage, and our slideshow is good to go. I can't wait to talk and show it off to everyone. I am pretty proud of it! This was a fun semester and I hope I'll have another one just like this one again!
